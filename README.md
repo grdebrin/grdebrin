@@ -2,19 +2,19 @@
 
 ## QA Engineer
 
-Меня зовут Дебрин Георгий. Более пяти лет работал в СургутАСУнефть на позиции Инженер. В должностные обязанности входило техническое обслуживание средств вычислительной техники. В данный момент увлекся тестированием ПО и хочу сменить вид деятельности. Активно обучаюсь и развиваюсь в этом направлении.
+Меня зовут Дебрин Георгий. Более пяти лет работал в СургутАСУнефть на позиции Инженер. В должностные обязанности входило техническое обслуживание средств вычислительной техники. В данный момент занимаюсь тестированием ПО. Активно обучаюсь и развиваюсь в этом направлении.
 
 * 🌍  I'm based in Russia, Penza 
 * 🖥️  See my portfolio at [My resume](http://grdebrin.netlify.app) 
 * ✉️  You can contact me at [gr.debrin@gmail.com](mailto:gr.debrin@gmail.com)
 
 ## Connect with me  
+<a href="https://t.me/gr_debrin" target="_blank">
+<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a> 
 <a href="https://linkedin.com/in/georgiy-debrin" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
-<a href="https://github.com/grdebrin" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 
 <h3 align="left">Languages and Tools:</h3>
 
