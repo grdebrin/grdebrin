@@ -55,6 +55,9 @@
 <a href="https://drive.google.com/file/d/19uvUwg62NVlcK0U8ivr8OwL9WWWq_e_l/view?usp=sharing" target="_blank">
 <img src="https://i121.fastpic.org/big/2023/0520/3a/fe7f1d58f4d0280cc4603c1f3f34da3a.png" alt="CLS" style="width:275px; height:170px" />
 </a> 
+<a href="https://drive.google.com/file/d/1YazlhMAgJBrzC3I1nQ-5GeipZvz5BCQC/view?usp=sharing" target="_blank">
+<img src="https://i121.fastpic.org/big/2023/0521/1b/cf8c69e7fae32d6c6862b6af43ee7d1b.png" alt="SQL" style="width:275px; height:170px" />
+</a>
 
 ## My GitHub Stats
 <a href="http://www.github.com/grdebrin"><img src="https://github-readme-stats.vercel.app/api?username=grdebrin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="grdebrin's GitHub stats" /></a>
