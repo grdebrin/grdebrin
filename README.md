@@ -66,9 +66,9 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=grdebrin&theme=chartreuse_dark&utcOffset=8" width="49%">
 </div>
 <div style="display:flex; justify-content:center;">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=grdebrin&theme=chartreuse_dark" width="49.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=grdebrin&theme=chartreuse_dark" width="49.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=grdebrin&theme=chartreuse_dark" width="49%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=grdebrin&theme=chartreuse_dark" width="49%">
 </div>
 <div style="display:flex; justify-content:center;">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grdebrin&theme=chartreuse_dark" width="99.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grdebrin&theme=chartreuse_dark" width="98.5%">
 </div>
