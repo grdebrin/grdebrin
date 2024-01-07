@@ -1,8 +1,7 @@
 # Hi 👋 My name is Georgiy Debrin
 
-## QA Engineer
+## I am QA Engineer
 
-Меня зовут Дебрин Георгий. Я работаю QA-engineer.
 
 * 🌍  I'm based in Russia, Penza 
 * 🖥️  See my portfolio at [My resume](http://grdebrin.netlify.app) 
