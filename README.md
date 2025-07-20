@@ -4,7 +4,7 @@
 
 
 * 🌍  I'm based in Russia, Penza 
-* 🖥️  See my portfolio at [My resume](https://debrin.ru/resume.html) 
+* 🖥️  See my portfolio at [My resume](https://debrin.ru/) 
 * ✉️  You can contact me at [qa.debrin@gmail.com](mailto:qa.debrin@gmail.com)
 
 ## Connect with me  
