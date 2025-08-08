@@ -16,6 +16,9 @@
 </a> 
 
 ## Skills
+<table>
+<tr>
+<td valign="top">
 
 ### Functional Testing:
 * UAT
@@ -24,87 +27,118 @@
 * Regression Testing
 * Smoke Testing
 * Integration Testing
+
 ### Non Functional Testing:
 * Load Testing
 * Performance Testing
 * Stress Testing
 * Localization Testing
 * Internationalization Testing
+
 ### Testing Approaches:
 * Black Box Testing
 * White Box Testing
+
 ### Test Documentation:
 * Checklist
 * Test Case
 * Bug report
 * Test Plane
 * Traceability matrix
+
 ### Frontend:
 * HTML
 * CSS
 * Responsive vs Adaptive
+
 ### Backend:
 * REST API
 * Postman
 * Newman
 * Insomnia
 * BloomRPC
+
+</td>
+<td valign="top">
+
 ### Protocols:
 * HTTP
 * SOAP
 * gRPC
+
 ### CI/CD:
 * Jenkins
 * Gitlab CI
+
 ### Repo Hosting Services:
 * GitLab
 * GitHub
+
 ### Monitoring and Logs:
 * Grafana
 * Kibana
 * Sentry
-### Version Control System:
-* Git
+
 ### Load & Performance Testing:
 * JMeter
 * Lighthouse
+
 ### Project Management:
 * Atlassian
 * Yandex Tracker
 * TeamStorm
+
 ### Manage your Testing:
 * Zephyr
 * TestIT
+
 ### Mobile Testing:
 * Android Studio
 * Xcode
 * ADB
+
+<td valign="top">
+
+### Version Control System:
+* Git
+
 ### Sniffing tool:
 * Charles
 * Fiddler
 * Wireshark
 * Proxyman
+
 ### Tools:
 * DevTools
 * Terminal Linux
 * Docker
+
 ### Database:
 * PostgreSQL
 * MySQL
 * MongoDB
+
 ### SDLC Delivery Model:
 * Scrum
 * Kanban
+
 ### Automation Frameworks:
 * Cypress
+
 ### Reporting:
 * Allure
+
 ### Operating system:
 * Windows
 * MacOS
 * Linux
 * Android
 * iOS
+
+</td>
+</tr>
+</table>
+
 
 ## Certificates
 <a href="https://drive.google.com/file/d/1MZPTlkVxKdTOwur-oISb86iLaxSN_BCe/view?usp=sharing" target="_blank">
