@@ -171,9 +171,6 @@
 <a href="https://dbeaver.io" target="_blank" rel="noreferrer"> <img src="https://dbeaver.com/img/dbeaver-head.png" alt="dbeaver" width="40" height="40"/> </a>
 
 ## Certificates
-<a href="https://drive.google.com/file/d/1MZPTlkVxKdTOwur-oISb86iLaxSN_BCe/view?usp=sharing" target="_blank">
-<img src="https://i125.fastpic.org/big/2025/0808/d6/fc1ec377f52f4e9e8f733c796f0be5d6.jpg" alt="istqb" style="width:275px; height:280px" />
-</a> 
 <a href="https://drive.google.com/file/d/1XVuHUVkLYDSdBSUT_Z0qmTe-FvISNNdD/view?usp=sharing" target="_blank">
 <img src="https://i123.fastpic.org/thumb/2024/0401/1c/_b1b64389978e2a73f6edc444dd7aea1c.jpeg" alt="theory" style="width:275px; height:170px" />
 </a> 
@@ -198,6 +195,9 @@
 <a href="https://drive.google.com/file/d/1mPPWyPhfFO0l0aCIOdn4ZBYuvRKH2ZAK/view?usp=sharing" target="_blank">
 <img src="https://i122.fastpic.org/thumb/2024/0107/1e/_abb747a2a69a6cfe6f83448e965e6e1e.jpeg" alt="CRT" style="width:275px; height:170px" />
 </a>
+<a href="https://drive.google.com/file/d/1MZPTlkVxKdTOwur-oISb86iLaxSN_BCe/view?usp=sharing" target="_blank">
+<img src="https://i125.fastpic.org/big/2025/0808/d6/fc1ec377f52f4e9e8f733c796f0be5d6.jpg" alt="istqb" style="width:275px; height:350px" />
+</a> 
 
 ## My GitHub Stats
 <div style="display:flex; justify-content:center;">
