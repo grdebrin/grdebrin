@@ -154,6 +154,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.charlesproxy.com" target="_blank" rel="noreferrer"> <img src="https://davidwalsh.name/demo/charlesproxyicon.svg" alt="charles" width="40" height="40"/></a>
 <a href="https://www.telerik.com/download/fiddler-everywhere" target="_blank" rel="noreferrer"> <img src="https://www.fileeagle.com/data/2021/06/Fiddler-Everywhere.png" alt="fiddler" width="40" height="40"/></a> 
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/></a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/d/da/Icon_512x512_Normal%402xxcode.png/revision/latest/scale-to-width-down/250?cb=20200917151913" alt="xcode" width="40" height="40"/> </a>
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" alt="android" width="40" height="40"/> </a>
