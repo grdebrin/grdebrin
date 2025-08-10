@@ -195,8 +195,9 @@
 <a href="https://drive.google.com/file/d/1mPPWyPhfFO0l0aCIOdn4ZBYuvRKH2ZAK/view?usp=sharing" target="_blank">
 <img src="https://i122.fastpic.org/thumb/2024/0107/1e/_abb747a2a69a6cfe6f83448e965e6e1e.jpeg" alt="CRT" style="width:275px; height:170px" />
 </a>
+<br>
 <a href="https://drive.google.com/file/d/1MZPTlkVxKdTOwur-oISb86iLaxSN_BCe/view?usp=sharing" target="_blank">
-<img src="https://i125.fastpic.org/big/2025/0808/d6/fc1ec377f52f4e9e8f733c796f0be5d6.jpg" alt="istqb" style="width:275px; height:350px" />
+<img src="https://i125.fastpic.org/big/2025/0808/d6/fc1ec377f52f4e9e8f733c796f0be5d6.jpg" alt="istqb" style="width:275px; height:360px" />
 </a> 
 
 ## My GitHub Stats
