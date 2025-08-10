@@ -172,7 +172,7 @@
 
 ## Certificates
 <a href="https://drive.google.com/file/d/1MZPTlkVxKdTOwur-oISb86iLaxSN_BCe/view?usp=sharing" target="_blank">
-<img src="https://i125.fastpic.org/big/2025/0808/d6/fc1ec377f52f4e9e8f733c796f0be5d6.jpg" alt="istqb" style="width:275px; height:200px" />
+<img src="https://i125.fastpic.org/big/2025/0808/d6/fc1ec377f52f4e9e8f733c796f0be5d6.jpg" alt="istqb" style="width:275px; height:280px" />
 </a> 
 <a href="https://drive.google.com/file/d/1XVuHUVkLYDSdBSUT_Z0qmTe-FvISNNdD/view?usp=sharing" target="_blank">
 <img src="https://i123.fastpic.org/thumb/2024/0401/1c/_b1b64389978e2a73f6edc444dd7aea1c.jpeg" alt="theory" style="width:275px; height:170px" />
