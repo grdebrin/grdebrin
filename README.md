@@ -97,6 +97,7 @@
 * Xcode
 * ADB
 
+</td>
 <td valign="top">
 
 ### Version Control System:
